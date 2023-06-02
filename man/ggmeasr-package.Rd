@@ -8,6 +8,14 @@
 \description{
 What the package does (one paragraph).
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/wjakethompson/ggmeasr}
+  \item Report bugs at \url{https://github.com/wjakethompson/ggmeasr/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: W. Jake Thompson \email{wjakethompson@gmail.com} (\href{https://orcid.org/0000-0001-7339-0300}{ORCID})
 
